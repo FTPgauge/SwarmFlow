@@ -15,7 +15,7 @@ AI-powered crypto execution + gas optimization assistant
 
 - Node.js + Express
 - Drizzle ORM + PostgreSQL
-- AI-assisted development
+- AI-assisted development (Shoutout to Surf.ai, as well as VScode AI models! <3 )
 
 ## Getting Started
 
